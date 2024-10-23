@@ -1,16 +1,28 @@
 {
   "student": [
     {
-      "id": "79de",
-      "name": "grgregre",
-      "code": "gẻgeg",
-      "active": true
+      "id": "26b4",
+      "name": "greg",
+      "code": "gregeg",
+      "status": true
     },
     {
-      "id": "8169",
-      "name": "few",
-      "code": "fwe",
-      "active": true
+      "id": "e4d9",
+      "name": "greg",
+      "code": "grre",
+      "status": false
+    },
+    {
+      "id": "94fa",
+      "name": "gregregre",
+      "code": "gregegregregerg",
+      "status": true
+    },
+    {
+      "id": "11e8",
+      "name": "regregregre",
+      "code": "greregregreg",
+      "status": true
     }
   ]
 }
